@@ -1,0 +1,71 @@
+Dżuma (czarna śmierć, mór, zaraza morowa) – ostra bakteryjna choroba zakaźna gryzoni i (rzadziej) innych drobnych ssaków, a także człowieka (zoonoza). Choroba ta wywołana jest infekcją względnie beztlenowych pałeczek z rodziny Enterobacteriaceae (G(-)) nazwanej Yersinia pestis.
+Postacie i droga szerzenia
+
+Wyróżnia się trzy zasadnicze postacie dżumy:
+
+    dymieniczą,
+    posocznicową (septyczną),
+    płucną: pierwotną i wtórną.
+
+Najczęściej występuje (zarówno wśród zwierząt, jak u ludzi) dymienicza forma dżumy. Do zakażenia dochodzi zwykle w wyniku pokąsania przez pchły (głównie pchły szczurze, Xenopsylla cheopis) uprzednio zainfekowane w wyniku kąsania chorych szczurów, wiewiórek, nieświszczuków czarnoogonowych lub innych małych ssaków. W następstwie infekcji bakterie migrują wraz z krwią i chłonką do węzłów chłonnych, co po około pięciu dniach objawia się regionalnym powiększeniem tych narządów (tzw. dymienicą). Postać dymienicza dżumy wywołana może być także spożyciem skażonego pokarmu lub wody (rzadkie u ludzi).
+
+Postać septyczna jest zazwyczaj powikłaniem dżumy dymieniczej. U części chorych rozwija się, z pominięciem postaci dymieniczej, od razu pierwotna sepsa.
+
+Płucna postać dżumy może występować zarówno jako zakażenie pierwotne (w tym przypadku dochodzi do niego drogą kropelkową, bezpośrednio od chorej osoby, z wyłączeniem wektora zakażenia w postaci pchły lub szczura) lub jako wtórne, dżumowe zapalenie płuc, będące komplikacją postaci dymieniczej. Postać tę cechuje bardzo wysoka zaraźliwość (nieznane nauce są jednak przypadki zakażeń dżumą płucną poprzez np. system wentylacyjny).
+
+Czynnik etiologiczny
+
+Dżumę wywołuje nieruchoma pałeczka, barwiąca się ujemnie przy wykorzystaniu metody Grama, nieprzetrwalnikująca, Yersinia pestis. Bakteria ta posiada zespół genów nazywanych Yop virulon wytwarzających szczególne wypustki białkowe na powierzchni komórek bakteryjnych oraz endotoksyny. Dzięki tym wypustkom rozpoznawane są fagocyty zainfekowanego organizmu oraz wprowadzane są do cytoplazmy fagocytów endotoksyny bakteryjne (YopE, YopH i YopT), które blokują fagocytozę. Patogen ten wrażliwy jest na popularne środki dezynfekcyjne (środki chemiczne i wysoką temperaturę). Wykazuje względnie dużą oporność na niskie temperatury. W środowisku przeżywa zwykle od miesiąca do pół roku.
+Patogeneza, objawy i rozpoznawanie
+Ogolony brzuch wiewiórki: zaczerwieniona skóra ponad węzłami limfatycznymi – typowy obraz dżumy dymieniczej
+
+Objawy dżumy dymieniczej (łac. pestis bubonica) pojawiają się w okresie od dwóch dni do tygodnia od ukąszenia. W początkowym okresie, pierwszych 6–8 godzinach, występują objawy nieswoiste, takie jak wysoka gorączka (powyżej 38 °C), poty, dreszcze, rozszerzenie naczyń krwionośnych, ból głowy i znaczne osłabienie.
+
+Później pojawia się powiększenie węzłów chłonnych (nawet do ok. 10 cm), zwłaszcza pachwinowych, rzadziej pachowych, szyjnych lub innych oraz objawy zapalenia naczyń chłonnych. Powiększone węzły chłonne stają się bolesne (czasem wywołując przykurcze kończyny), miękkie (z powodu martwicy o mechanizmie zawału i zmian ropnych w centralnych jego częściach), ich zawartość może ulec opróżnieniu przez samoistne przetoki. W lekkich przypadkach dżumy dymieniczej (łac. pestis minor) proces chorobowy ogranicza się do jednej grupy węzłów chłonnych, nawet bez wytworzenia przetoki. Zwykle jednak powstają dymienice wtórne (zajmowane są kolejne grupy węzłów chłonnych). W rzadkich przypadkach zmiany dymienicze powstają tylko w głęboko położonych węzłach chłonnych. Są to przypadki bardzo trudne do rozpoznania, przypominające przebiegiem ciężkie postacie duru brzusznego lub cięższej postaci – dżumy septycznej.
+
+Postać septyczną (łac. pestis septica) cechuje, poza objawami nieswoistymi, duża bakteriemia. W wyniku zakażenia uogólnionego, jako reakcja makroorganizmu, pojawia się uogólniony zespół odczynu zapalnego (łac. sepsis). W jej wyniku powstają mikrozatory bakteryjne w końcowych naczyniach krwionośnych palców rąk i stóp oraz nosa, czego skutkiem jest zgorzel (objawiająca się czarnym zabarwieniem tkanek). Objawy te są zbliżone do opisów epidemii „czarnej śmierci” w średniowieczu. W tej postaci rokowanie jest bardzo poważne.
+
+W postaci płucnej (łac. pestis pneumonica) występują objawy ciężkiego, wysiękowego zapalenia płuc, z krwiopluciem, dusznością i sinicą. Rokowanie jest znacznie poważniejsze niż w postaci dymieniczej. Postać płucna charakteryzuje się niezwykłą zaraźliwością drogą kropelkową (bez pośrednictwa pcheł).
+
+Zapalenie płuc w dżumie ma charakter krwotocznego, odoskrzelowego zapalenia z odczynem włóknikowym w opłucnej.
+
+Wczesna diagnostyka opiera się na wywiadzie epidemiologicznym i badaniu klinicznym. Do potwierdzenia dżumy stosuje się hodowle bakteriologiczne materiału z węzłów limfatycznych, krwi lub plwociny. Duże znaczenie mają także metody serologiczne oraz PCR. Ostatecznego potwierdzenia dokonuje się w laboratoriach o wysokiej (3, 4 stopień) klasie bezpieczeństwa biologicznego.
+Leczenie
+
+Leczenie polega na pozajelitowym podawaniu antybiotyków. Bakterie wykazują wrażliwość na streptomycynę, gentamycynę, chloramfenikol (te dwa pierwsze antybiotyki są tzw. lekami z wyboru w leczeniu dżumy. Chloramfenikol, mimo bardzo dużej skuteczności, stosowany jest obecnie jako antybiotyk „drugiego rzutu”, ze względu na częste i niebezpieczne działanie uboczne), ciprofloksacynę, cefalosporyny (w dżumie uogólnionej i płucnej) i niektóre tetracykliny, najczęściej doksycyklinę (w łagodnych przypadkach). Duże znaczenia ma leczenie wspomagające; konieczność chirurgicznego opracowania dymienic jest rzadkością.
+
+W Polsce chorzy na dżumę podlegają przymusowej hospitalizacji.
+Rokowanie
+
+W przypadkach nieleczonych, na podstawie danych z różnych epidemii, śmiertelność z powodu postaci dymieniczej szacuje się na kilkanaście do nawet 80%.
+
+Nieleczona postać septyczna (posocznicowa) jak i płucna dżumy jest prawie zawsze śmiertelna (śmierć w postaci płucnej następuje najczęściej w ciągu kilku dni, w postaci posocznicowej nawet w ciągu 48 godzin).
+
+Prawidłowa i odpowiednio wcześnie rozpoczęta antybiotykoterapia pozwala obniżyć śmiertelność w postaci dymieniczej poniżej 5%, w postaci septycznej i płucnej poniżej 20% (pod warunkiem, że leczenie zostanie podjęte podczas pierwszej doby po wystąpieniu objawów choroby).
+Profilaktyka
+
+Profilaktyka polega na unikaniu kontaktu z dzikimi martwymi zwierzętami oraz sytuacji, w których może dojść do pogryzienia przez gryzonia (np. podczas karmienia); używaniu środków przeciw pchłom u zwierząt domowych.
+
+Pierwszą szczepionkę przeciw dżumie opracowano w 1890 roku. Na rynku dostępna jest szczepionka przeciw dżumie, która zawiera bakterie zabite formaliną. Zapewnia ona ochronę przed postacią dymieniczą, jednak jej skuteczność w zapobieganiu postaci płucnej jest niewielka.
+
+Dla każdej postaci poza płucną izolacja osób z kontaktu nie jest konieczna, podobnie jak profilaktyka antybiotykowa.
+Rozprzestrzenianie się dżumy w XIV wieku. Dla orientacji zaznaczono dzisiejsze granice państw.
+Dżuma jako broń biologiczna
+
+Bakterie dżumy są zaliczane do „klasycznego” arsenału broni biologicznej. Ich znaczenie wynika z rzadkiego występowania dżumy w krajach rozwiniętych, dość dużej śmiertelności i powszechnej wrażliwości populacji. Pierwszym znanym przypadkiem ich wykorzystania jest oblężenie krymskiego portu Kaffa (obecnie Teodozja) przez Tatarów w 1346 r. Oblegający za pomocą katapult wrzucali za mury miasta zwłoki zmarłych na tę chorobę (uciekinierzy z tego miasta roznieśli epidemię na całą Europę). Zbrodnicze eksperymenty z dżumą jako bronią bakteriologiczną prowadzili japońscy wojskowi w latach 1937–1945 w jednostce „731” na terenie Mandżurii, dowodzonej przez lekarza wojskowego, gen. Shirō Ishiiego (1892–1959). W jednostce tej m.in. opracowano specjalne bomby porcelanowe przeznaczone do rozsiewania zakażonych pcheł. W okresie zimnej wojny były prowadzone przez ZSRR i Stany Zjednoczone badania nad odmianami pałeczki dżumy mogącymi mieć zastosowanie jako broń biologiczna.
+Historia
+
+Pierwotnie łacińskie słowo pestis było jednym z licznych, ogólnych określeń „zarazy” lub „masowego nieszczęścia”, „zguby”. Dopiero w XV–XVI w. zaczęto rozróżniać różne rodzaje chorób powodujących masowe schorzenia epidemiczne ze skutkiem śmiertelnym. Wyraz ten ma niejasne pochodzenie, być może jest pokrewny łac. perdo – „zgubić, zniszczyć, zmarnować”, łac. perditus – „stracony, nieuleczalny, beznadziejny”.
+Ubiór ochronny lekarza podczas epidemii dżumy (Niemcy, XVII w.)
+
+Istnieją spory, czy jeden z pierwszych opisów epidemii podany przez Tukidydesa, tzw. „dżumy ateńskiej” w 430 p.n.e., był rzeczywiście dżumą (niewykluczone, że był to dur, denga, ospa lub wirus gorączki krwotocznej). Od czasów starożytnych, poprzez średniowiecze, aż do czasów nowożytnych opisano kilkadziesiąt dużych epidemii (najprawdopodobniej) dżumy, zwanej także „czarną śmiercią” (od pojawiających się rozległych zmian martwiczo-zgorzelinowych w skórze, przyjmujących ciemną barwę).
+
+Największe z nich przetoczyły się przez kraje europejskie w połowie VI wieku, tzw. dżuma Justyniana oraz w latach 1348–1352. Epidemia czarnej śmierci wybuchła w Azji Środkowej, być może w Chinach, skąd przez jedwabny szlak w 1346 dostała się na Krym, a stamtąd rozprzestrzeniła się na basen Morza Śródziemnego i całą Europę, roznoszona prawdopodobnie przez pchły pasożytujące na szczurach śniadych zamieszkujących ówczesne statki handlowe[5]. Ta epidemia w niektórych rejonach zmniejszyła populację nawet o 80% ludności i spowodowała daleko idące konsekwencje demograficzne, kulturowo-społeczne i polityczne. Symbolem dżumy stał się charakterystyczny ubiór ochronny noszony w XVI–XVIII w. przez lekarzy w czasie epidemii, z maską w kształcie dzioba, gdzie wkładano wonne olejki tłumiące fetor rozkładających się zwłok. Prócz ubioru, chroniono się przed dżumą także specjalnymi antidotami: najcenniejszym z nich była driakiew, ale stosowano też ocet siedmiu złodziei (ocet winny, w którym przez 12 dni moczono bylicę piołun, rutę zwyczajną, rozmaryn lekarski, szałwię lekarską i inne zioła zawierające olejki eteryczne, o silnych właściwościach bakteriobójczych) i „driakiew ubogich” – czosnek pospolity.
+
+Czynnik bakteryjny powodujący dżumę zidentyfikowali w 1894 r. niezależnie od siebie japoński bakteriolog Shibasaburō Kitasato (1852–1931) oraz francuski bakteriolog Alexandre Yersin (1863–1943) podczas epidemii w Hongkongu, natomiast rolę pcheł szczurzych w szerzeniu się tego zarazka odkrył japoński badacz Masaki Ogata (1864–1919) w 1897 r.
+
+Na przełomie XX i XXI wieku część mikrobiologów (m.in. Christopher Duncan i Susan Scott) wysunęli teorię, zgodnie z którą opisywane epidemie w Atenach (V w. p.n.e.), dżuma Justyniana (VI–VII w. n.e.) oraz nawracające zarazy w latach 1348–1672 nie miały podłoża bakteryjnego (dżuma dymienicza – Yersinia pestis), lecz wirusowe. Zgodnie z tezami głoszonymi przez wymienionych naukowców, byłaby więc to choroba zbliżona do gorączek krwotocznych wywoływanych przez wirusy Ebola, Marburg, ale o okresie inkubacji ok. 32 dni.
+
+Stosując analizę DNA w materiale pobranym z zębów osób pochowanych na średniowiecznym cmentarzu w Aschheim w Bawarii, stwierdzono, że Dżuma Justyniana była spowodowana przez inne szczepy bakterii niż te, które spowodowały epidemię czarnej śmierci w XIV–XVII. wieku i niedawną epidemię dżumy w XIX–XX. wieku.
+
+Obecnie dżuma istnieje w kilku rejonach endemicznych w Azji i Afryce (w latach dziewięćdziesiątych XX wieku jej wybuchy odnotowano w Wietnamie, Zambii i Indiach). W XXI wieku odnotowano epidemie w Algierii, Demokratycznej Republice Konga i na Madagaskarze. Jak podaje Departament Zdrowia Navajo County w USA Arizona, ostrzega się społeczność i zachęca do podjęcia wszelkich środków ostrożności w celu zmniejszenia ryzyka zakażenia dżumą, którą przenoszą pchły, gryzonie, króliki i inne zwierzęta, które żywią się wymienionymi. 

@@ -1,0 +1,159 @@
+Rak (łac. carcinoma, z łac. cancer – „rak”, „krab”, z gr. καρκινος /karkinos/ – „rak”, „krab morski”) – nazwa grupy chorób nowotworowych będących nowotworami złośliwymi wywodzącymi się z tkanki nabłonkowej.
+
+Nazwa ta odnosi się do guzów powstających z nabłonków pochodzenia ekto- lub endodermalnego oraz z nabłonka narządów moczowo-płciowych. Nie są nazywane rakami nowotwory złośliwe wywodzące się z „nabłonków” pochodzenia mezodermalnego, np. śródbłonka, międzybłonka, błony maziowej.
+
+Historia pojęcia
+
+Nazwa rak była używana przez Hipokratesa z Kos (460–370 p.n.e.), Aulusa Corneliusa Celsusa (53 p.n.e. – 7 n.e.) i Pawła z Eginy (ok. 625–690) i została rozpropagowana przez perskiego (według innych źródeł tadżycko-arabskiego) lekarza Ibn Sinę, znanego jako Awicenna (980–1037). Nazywano tak wszystkie rozrosty złośliwe. Hipokrates używał określenia karkinoi wobec twardych guzów, które przeciwstawiał miękkim οιδημαi /oidemai/ („nabrzmienia” – łac. oedema). W przeciwieństwie do Hipokratesa, który w ogóle nie zalecał prób leczenia tych guzów, Celsus wskazywał, że twarde guzy wymagają usunięcia chirurgicznego. Paweł z Eginy tak opisuje etymologię tego słowa: „Rak pojawia się w każdej części ciała (...), ale szczególnie często w piersiach kobiet [...] i ulega owrzodzeniu. Żyły wokół są wypełnione i napięte niczym odnóża zwierzęcia zwanego krabem, i stąd choroba wzięła swą nazwę. Ale niektórzy powiadają, że jest ona tak nazywana dlatego, że przytwierdza się do części ciała, którą zawładnie tak uporczywie, jak to czyni krab”. Hipokrates w podobny sposób opisywał wygląd skóry sutka w zaawansowanych przypadkach tego schorzenia. Płaskie, okrągławe zagłębienie (a później owrzodzenie) z promieniście odchodzącymi bruzdami przypomina kształtem i wielkością rozpowszechnione w Morzu Śródziemnym kraby z rodziny Cancridae (gr. καραβοι /karaboi/; nie należy ich mylić z rakami rzecznymi rodzaju Ascatus, których głowotułów i przednie odnóża są wydłużone i mało przypominają wyglądem makroskopowe cechy raka sutka, w odróżnieniu od okrągłego głowotułowia krabów). Rysunek tego rodzaju kraba, zamieszczony przez chirurga franc. Ambroise Paré (1516–1590) w odpowiednim rozdziale jego dzieła, stał się symbolem onkologii. Współczesne znaczenie tego słowa, tzn. złośliwej choroby nowotworowej wywodzącej się z tkanki nabłonkowej, ustalił w 1865 niemiecki chirurg Karl Thiersch (1822–1895), który wraz niemieckim patologiem Heinrichem Wilhelmem von Waldeyer-Hartzem (1836–1921) ustalili, że raki składają się z dwóch elementów: złośliwego (pochodzącego z nabłonka) i niezłośliwego podścieliska (z tkanki łącznej). Był to pogląd odmienny od prezentowanego przez ówczesny autorytet w patologii Rudolfa Virchowa (1821–1902), który uważał, że rak jest rozrostem tkanek zarodkowych.
+
+Koncepcję raka „zaczynającego się” (ang. incipient carcinoma, łac. carcinoma incipiens) przedstawił i wprowadził w 1910 amer. patolog J.C. Rubin, na przykładzie raka macicy. Dwa lata później podobne poglądy przedstawili niemieccy autorzy J. Schottlander i F. Kermauner. Współczesną nazwę raka przedinwazyjnego (łac. carcinoma praeinvasivum) i jego definicję (rozrost atypowy bez przekraczania błony podstawnej nabłonka) wprowadził w 1928 austriacko-amerykański ginekolog Walter Schiller (1887–1960), na przykładzie raka płaskonabłonkowego szyjki macicy. Obecnie jednak w literaturze naukowej powszechniej używaną nazwą dla tego stanu (niedotyczącą jedynie szyjki macicy) jest określenie carcinoma in situ (dosłownie: „rak lokalny”). Nazwy takiej użył w odniesieniu do raków skóry amerykański patolog Albert Compton-Broders (1885–1964) w 1932; później często zastępowano ją skrótem „CIS”, a w obecnie obowiązujących klasyfikacjach TNM oznaczeniem „pTis”.
+
+W tłumaczeniach angielsko-polskich (lub odwrotnych) często można się spotkać z niewłaściwym przyporządkowaniem słowu ang. „cancer” słowa „rak”. Jest to błędne z fachowego punktu widzenia, gdyż ang. słowo „cancer” jest pojęciem ogólniejszym i oznacza „nowotwór złośliwy”, tzn. wszystkie ich rodzaje: mięsaki, glejaki, chłoniaki i inne, w tym także raki. Poprawne tłumaczenie na jęz. angielski słowa „rak” (jako złośliwego rozrostu tkanek nabłonkowych) jest „carcinoma”.
+Rozwój naturalny choroby i jej następstwa
+
+Patogeneza raków jest podobna do innych nowotworów złośliwych. Ogólną ich przyczyną jest uszkodzenie mechanizmów kontrolujących proliferację (rozrost) komórek na poziomie genetycznym i molekularnym i kumulacja błędów genetycznych w kolejnych pokoleniach komórek potomnych. W przypadku raków uszkodzenie dotyczy komórek nabłonków tworzących dany narząd, który ulega niekontrolowanemu rozrostowi, wtórnie wciągając w rozrost tkanki podścieliska, odżywiające patologiczny twór (tzw. angiogeneza nowotworowa). Zwykle rozwój raka trwa nawet przez okres 20–30 lat, a objętość zmienionych komórek nowotworowych (czyli masa guza) w czasie zmienia się w sposób wykładniczy (dobrym modelem matematycznym jest tzw. krzywa Gompertza). Etapy rozwoju raka zwykło się dzielić na następujące okresy:
+
+    inicjacja nowotworowa – aktywacja onkogenów, pierwsze zmiany w aparacie genetycznym, początkowo odwracalne lub naprawiane przez mechanizmy molekularne
+    promocja nowotworowa – utrwalenie się zmian genetycznych w pojedynczych komórkach i pojawienie się w nich antygenów nowotworowych jako wykładników zmienionego genotypu i fenotypu nowo powstałych komórek atypowych (czyli nowotworowych)
+    progresja nowotworowa – rozplem zmienionych komórek nowotworowych, powielanie zmian genetycznych w komórkach potomnych, ale bez przekraczania błony podstawnej nabłonka (dysplazja i rak przedinwazyjny)
+    rozplem niekontrolowany – atypowe komórki wydzielają w sposób niekontrolowany cytokiny należące do tzw. czynników wzrostowych (część z nich służy jako markery nowotworowe)
+    inwazja początkowa – przełamanie błony podstawnej, początek angiogenezy nowotworowej, lokalne naciekanie tkanki łącznej podścieliska
+    inwazja zaawansowana – pojawienie się oderwanych atypowych komórek w krwi i chłonce, początek reakcji immunologicznych ustroju na fenotypowo i genotypowo zmienione komórki i ich antygeny nowotworowe; często także naciekanie przez ciągłość sąsiednich narządów, na przykład wzdłuż nerwów
+    okres przerzutowania i uogólnionej choroby nowotworowej – guz pierwotny staje się źródłem przerzutów nowotworowych. W przypadku raków przerzuty szerzą się najczęściej drogą naczyń chłonnych, pojawiając się najpierw w okolicznych węzłach chłonnych – dlatego przy leczeniu chirurgicznym wraz ze zmienionym chorobowo narządem się je usuwa, później także drogą krwionośną w narządach odległych.
+
+Etapy i rozległość anatomiczną choroby nowotworowej u poszczególnych pacjentów są szczegółowo określane według systemu TNM (z ang. łac. tumor – wielkość guza pierwotnego, nodus – liczba zajętych węzłów chłonnych, metastasis – liczba narządów objętych przerzutami), czyli tzw. (ang.) staging. Określenie etapu rozwoju choroby nowotworowej jest precyzyjną wskazówką rokowniczą oraz stanowi pomoc przy wyborze optymalnej terapii przeciwnowotworowej.
+Stany przedrakowe
+
+Rak, podobnie jak inne nowotwory, może pojawić się w określonej lokalizacji spontanicznie, lub być poprzedzony wystąpieniem zmiany przedzłośliwej. Zmiana przedzłośliwa względna jest taką zmianą morfologiczną lub jednostką chorobową, na podłożu której – statystycznie częściej niż to wynikałoby z oszacowania prawdopodobieństwa przypadkowego – rozwija się nowotwór złośliwy. Do takich zmian zalicza się np. modzelowaty wrzód trawienny żołądka, wrzodziejące zapalenie jelita grubego, niektóre postacie metaplazji i szereg innych. Zmianą przedzłośliwą bezwzględną jest natomiast stan, w którym nowotwór złośliwy rozwija się prawie zawsze, pod warunkiem dostatecznie długiego czasu jej trwania. Przykładem stanu przedrakowego bezwzględnego jest mnoga polipowatość rodzinna jelita grubego lub rogowacenie białe krtani.
+
+Stanów przedzłośliwych nie należy utożsamiać z czynnikami ryzyka powstania raka.
+Klasyfikacja raków
+W zależności od nabłonka, z którego wywodzi się nowotwór
+Gruczolakoraki (łac. adenocarcinomata)
+Gruczolakorak odbytnicy, I (wysoki) stopień dojrzałości
+Gruczolakorak odbytnicy, II (średni) stopień dojrzałości
+Rak gruczołowopochodny żołądka, III (niski) stopień dojrzałości
+
+Gruczolakoraki powstają najczęściej w przewodzie pokarmowym, gruczołach dokrewnych, trzustce, wątrobie, trzonie macicy, jajnikach, płucach, gruczole krokowym, śliniankach, sutku, nerkach.
+
+Gruczolakoraki można podzielić na podstawie obrazu histologicznego, uwzględniając m.in.:
+
+a) Stopień dojrzałości (gruczolakoraki I°, II°, III°), a zwłaszcza stopień ukształtowania struktur gruczołowych (histioformatywność):
+
+    gruczolakorak (łac. adenocarcinoma) – struktury gruczołowe bardzo dobrze widoczne,
+    torbielakogruczolakorak (łac. cystadenocarcinoma albo kystadenocarcinoma) – obecne struktury gruczołowe w postaci torbieli,
+    rak gruczołowopochodny (łac. carcinoma adenoides) – struktury gruczołowe zaznaczone,
+    rak lity (łac. carcinoma solidum) – układ gruczołów nieczytelny.
+
+Jest to ważne kryterium określające agresywność (dynamikę) rozwoju guza, czyli tzw. histologiczną złośliwość nowotworu.
+
+Wyróżnia się jeszcze specjalną postać raka, nazywanego rakiem gruczołowo-torbielowatym (łac. carcinoma adenoides cysticum), różniącą się od gruczolakotorbielaka. Typowo występuje on w gruczołach ślinowych, łzowych i drogach oddechowych.
+
+b) Rodzaj wydzielanej substancji, m.in.:
+
+    rak śluzotwórczy (łac. carcinoma mucosecretans) – wydzielanie mucyn,
+    rak surowiczy (łac. carcinoma serosum) – wydzielanie substancji surowiczej (niskobiałkowej).
+
+c) Obecność cech wydzielania śluzu, ich nasilenie i charakter (aby wykazać wydzielanie śluzu, powszechnie stosowanym barwieniem jest barwienie mucikarminem lub błękitem alcjanu):
+
+    gruczolakorak śluzotwórczy (łac. adenocarcinoma mucinosum albo mucosecretans) obecne wydzielanie śluzu do światła gruczołów,
+    (gruczolako)rak śluzowokomórkowy (łac. (adeno)carcinoma mucocellulare) obecne tworzenie śluzu w obrębie komórek,
+    (gruczolako)rak galaretowaty (łac. (adeno)carcinoma gelatinosum) obecne tworzenie śluzu z wydalaniem go do podścieliska.
+
+Ocena ta ma znaczenie w określaniu stopnia zróżnicowania raka oraz jego podatności na radioterapię (nowotwory wydzielające śluz są promieniooporne).
+
+d) Kształt komórek (gruczolako)rak wałeczkowatokomórkowy (łac. (adeno)carcinoma cylindrocellulare), (gruczolako)rak sześciennokomórkowy (łac. (adeno)carcinoma cubocellulare).
+
+e) Desmoplazję, czyli rozplem elementów łącznotkankowych podścieliska
+
+    (gruczolako)rak twardy (łac. (adeno)carcinoma durum albo scirrhosum, albo desmoplasticum) ze znaczną przewagą podścieliska,
+    (gruczolako)rak miękki lub rdzeniasty (łac. (adeno)carcinoma molle albo medullare) ze skąpym podścieliskiem guza.
+
+Rozróżnienie to ma znaczenie w ocenie klinicznej i z użyciem metod diagnostyki obrazowej, mającej na celu wyznaczenie wielkości guza. Podczas interwencji chirurgicznej należy uwzględniać tę cechę guza przy określaniu granic zabiegu.
+Raki płaskonabłonkowe (łac. carcinomata planoepithelialia)
+Rogowaciejący rak płaskonabłonkowy krtani, wysoko dojrzały
+
+Raki płaskonabłonkowe powstają w jamie ustnej, przełyku, oskrzelach, skórze, gardle, tarczy szyjki macicy, czasem w innych narządach. Często powstanie raka płaskonabłonkowego jest poprzedzone zjawiskiem metaplazji płaskonabłonkowej.
+
+    Rak płaskonabłonkowy kolczystokomórkowy (łac. carcinoma planoepitheliale spinocellulare), których cechą charakterystyczną jest pojawienie się zrogowaciałych struktur mikroskopowych, tzw. pereł rakowych (Waldeyera).
+    Rak płaskonabłonkowy rogowaciejący/nierogowaciejący (łac. carcinoma planoepitheliae keratodes/nonkeratodes).
+    „Rak” podstawnokomórkowy (łac. carcinoma basocellulare), dla których cechą charakterystyczną jest palisadowaty układ komórek na obwodzie gniazd nacieku rakowego. Nowotwór ten nie spełnia kryteriów biologicznych raka, tzn. nie tworzy przerzutów odległych (jest nowotworem półzłośliwym, powodując wznowy miejscowe po usunięciu chirurgicznym), lokalizuje się najczęściej w skórze twarzy.
+    Nabłoniak limfatyczny (guz Schminckego) (łac. lymphoepithelioma), dotyczy zwykle migdałków podniebiennych.
+
+Raki urotelialne (łac. carcinomata urothelialia)
+
+Raki urotelialne powstają w drogach moczowych (pęcherzu moczowym, moczowodzie, miedniczkach i kielichach nerkowych). Nowotwór ten rośnie w postaci brodaweczkowatych wypustek, w początkowym okresie rozwoju brodaweczki te wszczepiają się w inne obszary dróg moczowych.
+
+Rozpoznania rodzaju raka dokonuje się na podstawie obrazu histopatologicznego (badanie mikroskopowe próbki tkankowej i określenie jej mikrostruktury oraz cech poszczególnych komórek tworzących guz), cytopatologicznego (badanie mikroskopowe próbki komórek wyizolowanych z guza), często uzupełnione wyznaczeniem immunofenotypu komórek nowotworowych (określenie białek charakterystycznych dla danego rodzaju komórek nowotworowych).
+
+Istnieją raki o mieszanym utkaniu histologicznym, tzn. posiadające w swoim składzie kilka rodzajów odróżnicowanego nabłonka.
+W zależności od stopnia dojrzałości i stopnia odróżnicowania
+Rak anaplastyczny (drobnokomórkowy, tzw. owsianokomórkowy) płuc
+
+    Raki anaplastyczne – rak, w którym proces zmian genetycznych i związanych z nim przemian fenotypowych komórek jest tak głęboki, że nie można określić nabłonka, z którego powstał (utrata cech histioformatywnych, utrata immunofenotypu).
+    Raki zarodkowe – raki powstające z komórek niedojrzałych morfologicznie, przypominających nie w pełni ukształtowane nabłonki płodowe. Szczególną postacią raków zarodkowych są te, które powstają w tzw. potworniakach (łac. teratoma), tj. guzach wywodzących się z komórek zarodkowych lub płciowych (najczęściej są to guzy gonad).
+
+Jednym ze sposobów obiektywizacji określania stopnia zaburzenia replikacji materiału genetycznego DNA w komórkach nowotworów złośliwych jest ocena ich ploidii.
+W zależności od stopnia zaawansowania
+
+    Rak przedinwazyjny (łac. carcinoma praeivasivum lub carcinoma in situ). Nowotwór w początkowym stadium rozwoju, komórki rakowe nie przekraczają błony podstawnej nabłonka (usunięcie zmienionej tkanki w tym okresie choroby gwarantuje pełne wyleczenie). W klasyfikacji TNM oznacza się je jako pTis.
+    Rak w okresie wczesnej inwazji (łac. carcinoma in stadio invasionis incipienti). W odniesieniu do niektórych lokalizacji (np. raka szyjki macicy) wyróżnia się takie stadium, w którym – przy dostatecznie szerokim miejscowym usunięciu zmiany – nie ma ryzyka wznowy lub przerzutów guza. Podobną kategorię „wczesnego raka” wyróżniono dla raka żołądka (ang. early gastric carcinoma). W klasyfikacji TNM oznacza się je jako pT1a.
+    Rak w okresie naciekania (łac. carcinoma infiltrativum). Naciekanie podścieliska jest na tyle głębokie, że istnieje prawdopodobieństwo przedostania się komórek rakowych do naczyń chłonnych lub krwionośnych, a w związku z tym pojawienia się przerzutów. W klasyfikacji TNM oznacza się je jako pT1 do pT4.
+
+Epidemiologia
+Rak krtani
+
+Zgodnie z Krajowym Rejestrem Nowotworów w Polsce w 2002 roku na nowotwory złośliwe zachorowało ogółem 37462 kobiet i 50273 mężczyzn. Przyjmuje się, że ok. 90% tej liczby stanowią raki, pozostałe 10% to chłoniaki, białaczki, glejaki, mięsaki i inne nowotwory złośliwe pochodzenia nienabłonkowego. Wśród umiejscowień anatomicznych nowotworów złośliwych, w których zwykle rozwijają się raki, najczęstszymi są:
+
+    u kobiet:
+
+sutek (12,88%), oskrzela i płuca (12,06%), okrężnica (7,63%), jajnik (5,80%), żołądek (5,54%), trzustka (4,99%), szyjka macicy (4,95%), pęcherzyk żółciowy (3,17%), wątroba i przewody żółciowe wewnątrzwątrobowe (2,74%), odbytnica (2,64%), nerki (2,36%), trzon macicy (2,02%), pęcherz moczowy (1,37%);
+
+    u mężczyzn:
+
+oskrzela i płuca (33,20%), żołądek (7,56%), gruczoł krokowy (6,94%), okrężnica (5,90%), pęcherz moczowy (4,12%), trzustka (3,86%), krtań (3,06%), nerki (2,96%), przełyk (2,48%), odbytnica (2,47%), wątroba i przewody żółciowe wewnątrzwątrobowe (2,02%), odbyt i kanał odbytu (0,90%).
+
+Częstość występowania i proporcje zachorowalności na raka w poszczególnych krajach różnią się znacznie między sobą. Jest to spowodowane różnicami wieku w poszczególnych populacjach, czynnikami rasowymi oraz zachowaniami kulturowymi i obyczajami dietetycznymi, z których wiele może mieć wpływ na powstawanie nowotworów. Przykładowo w Afryce Równikowej i na Dalekim Wschodzie jednym z najczęściej występujących nowotworów jest pierwotny rak wątroby, a w Japonii i Korei poważnym problemem jest rak żołądka.
+Leczenie
+
+Metody leczenia raków są podobne jak w innych chorobach nowotworowych i opierają się na leczeniu:
+
+    chirurgicznym
+    radioterapii
+    chemioterapii
+    leczeniu hormonalnym
+    immunoterapii
+    terapii celowanej (leczenie biologiczne).
+
+W porównaniu z innymi nowotworami złośliwymi specyfiką leczenia raków jest fakt, że początkowy okres rozwoju choroby można precyzyjnie wyznaczyć (w oparciu o głębokość naciekania w odniesieniu do błony podstawnej nabłonka) oraz to, że przerzuty raka pojawiają się zwykle najpierw w okolicznych węzłach chłonnych, a później szerzą się drogą krwionośną (choć zdarzają się przerzuty odległe już w stosunkowo wczesnych fazach choroby). Implikuje to konieczność dokładnej diagnostyki układu chłonnego oraz usuwanie węzłów chłonnych wraz z guzem pierwotnym.
+Leczenie chirurgiczne
+
+Leczenie chirurgiczne jest dotąd uznawane za najbardziej skuteczne w leczeniu raków (z wyjątkiem raków anaplastycznych). Może być planowane jako:
+
+    leczenie radykalne (wycięcie guza w granicach zdrowych tkanek)
+    leczenie ablacyjne (zmniejszenie masy guza lub wycięcie przerzutu)
+    leczenie paliatywne (operacje podtrzymujące naruszone przez raka funkcje życiowe organizmu chorego, u pacjentów w zaawansowanym okresie rozwoju choroby).
+
+Podjęcie radykalnego leczenia chirurgicznego jest poprzedzone tak zwaną oceną resekcyjności guza, czyli oceną zaawansowania guza w kontekście technicznych możliwości jego całkowitego usunięcia. Z reguły są to pacjenci w stadium zaawansowania (zgodnie z klasyfikacją TNM) od Tis do T2, czasem do T3. Niekiedy zakres zabiegu chirurgicznego bywa ustalany dopiero w czasie trwania operacji z wykorzystaniem śródoperacyjnego badania histopatologicznego próbek tkankowych (tzw. biopsja śródoperacyjna). Podczas zabiegu chirurgicznego wymagane jest zachowanie tzw. „sterylności onkologicznej”, tj. takie postępowanie, aby podczas jego trwania nie wprowadzić do krwiobiegu oderwanych komórek nowotworu (mogących przyspieszyć rozwój przerzutów).
+
+Leczenie chirurgiczne bywa uzupełniane terapią adiuwantową. Polega ona na uzupełniającej radioterapii i chemioterapii. Dotyczy ona zwłaszcza tych przypadków, w których stopień zaawansowania guza pierwotnego był na tyle duży, że istnieje poważne ryzyko obecności dotąd nieujawnionych mikroprzerzutów w węzłach chłonnych lub narządach odległych.
+Radioterapia
+
+Radioterapia nowotworów jest stosowana u chorych z wykrytym i zlokalizowanym anatomicznie guzem złośliwym. Istotą leczniczego działania promieniowania jonizującego stosowanego w tej metodzie leczenia jest fakt, że do zniszczenia tkanki rakowej potrzeba niższej dawki promieniowania niż do zniszczenia tkanki zdrowej (tkanka nowotworowa jest na ogół bardziej promieniowrażliwa niż otaczające ją tkanki zdrowe). Czasami stosuje się specjalne substancje zwane chemicznymi modyfikatorami promienioczułości, mające na celu zwiększenie indeksu terapeutycznego promieniowania, tj. na zwiększeniu promieniooporności tkanek zdrowych (używanym radioprotektorem jest amifostyna) lub zwiększeniu promieniowrażliwości tkanek rakowych (np. przez podanie metronidazolu). Źródłem promieniowania mogą być: lampa rentgenowska, akcelerator liniowy oraz pierwiastki i izotopy promieniotwórcze. Wyróżnia się trzy główne metody radioterapii onkologicznej:
+
+    teleterapię – źródło promieniowania jest umieszczone na zewnątrz ciała chorego (z reguły leczenie jest prowadzone z kilku pól zewnętrznych), a wiązki promieniowania są tak dopasowywane, aby rozkład izodoz kumulował się w miejscu guza;
+    brachyterapię – źródło promieniowania (najczęściej izotop promieniotwórczy) jest umieszczane w obrębie tkanek rakowych (terapia śródtkankowa), jamach ciała (terapia śródjamowa) lub na powierzchni ciała (terapia kontaktowa);
+    terapię izotopową, polegającą na podaniu dożylnym lub doustnym izotopu promieniotwórczego, który jest wybiórczo wychwytywany w określonym narządzie. Stosuje się ją w takich nowotworach, w których podany pierwiastek kumuluje się w określonych tkankach – należą do nich przerzuty raka stercza do kości (podaje się stront 89) oraz rak pęcherzykowy tarczycy (podaje się jod 131).
+
+Radioterapia może być stosowana jako samodzielna metoda leczenia onkologicznego lub w połączeniu z leczeniem chirurgicznym lub chemioterapeutycznym (leczenie skojarzone). W przypadku połączenia radioterapii z leczeniem chirurgicznym guz może być napromieniany przed operacją (chodzi tu zwłaszcza o zmniejszenie masy guza i ułatwienie techniczne podczas zabiegu) lub po operacji (zniszczenie pozostałości nowotworu i zniszczenie mikroprzerzutów). Radioterapia paliatywna jest stosowana w nieoperacyjnych przypadkach raków i ma na celu zmniejszenie dolegliwości u chorych z zaawansowaną choroba nowotworową.
+Chemioterapia
+
+Leki przeciwnowotworowe używane w chemioterapii nowotworów mogą być podawane metodą perfuzji narządowej lub stosowane ogólnoustrojowo (często uzupełniane leczeniem hormonalnym). Leczenie perfuzyjne ma obecnie małe zastosowanie (zwłaszcza w przypadkach raków), ale bywa stosowane w przypadkach złośliwych guzów kończyn (eksperymentalnie także w guzach wątroby). Podobnie jak radioterapia, chemioterapia może być samodzielną metodą leczniczą, uzupełnieniem leczenia chirurgicznego lub radioterapii. Chemioterapia paliatywna ma na celu zmniejszenie dolegliwości u chorych z zaawansowaną choroba nowotworową. Leki przeciwnowotworowe są bardzo różnorodnymi pod względem chemicznym substancjami oraz o rozmaitych mechanizmach oddziaływania cytotoksycznego. Najczęściej ich lecznicze działanie polega na blokowaniu cyklu komórkowego, działaniu antyangiogennym, hamowaniu syntezy białek.
+Hormonoterapia
+
+Jako składnik leczenia ogólnoustrojowego hormonoterapia ma zastosowanie zwłaszcza w przypadkach raka piersi, raka gruczołu krokowego, nowotworów gonad i raka trzonu macicy. Są to tzw. nowotwory hormonozależne, tzn. takie, dla których rozwoju niezbędny jest odpowiedni dla nich stan hormonalny organizmu. Pierwowzorem leczenia hormonalnego nowotworów jest kastracja.
+Immunoterapia
+
+Do niedawna immunoterapia nowotworów polegała głównie na stosowaniu środków wzmacniających naturalną odpowiedź immunologiczną organizmu chorego na obecność obcej immunologicznie tkanki, jaką jest tkanka rakowa. Nową metodą leczenia nowotworów, stojącą na pograniczu immunoterapii i chemioterapii jest stosowanie leków opartych na przeciwciałach monoklonalnych. Istotą tego leczenia jest podawanie przeciwciał łączących się wybiórczo z takimi antygenami, których zwiększoną ekspresję obserwuje się w komórkach rakowych.
+Chemioprewencja nowotworów
+Chemioprewencja nowotworów jest leczeniem farmakologicznym obejmującym wczesne postacie raka (jeszcze na etapie raka przedinwazyjnego). Polega na podawaniu osobom zagrożonym rozwojem raka określonych substancji naturalnych i syntetycznych, co do których istnieją przesłanki, że zwalniają proces karcynogenezy. Stosuje się ją u osób z określonych grup ryzyka rozwoju poszczególnych typów nowotworów. Na razie metoda ta jest w fazie testów i gromadzenia obserwacji z już podjętych programów badawczych. 
